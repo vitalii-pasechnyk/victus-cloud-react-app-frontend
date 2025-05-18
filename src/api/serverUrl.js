@@ -1,0 +1,1 @@
+export default "https://ly8avedbn3.execute-api.eu-central-1.amazonaws.com/dev";
